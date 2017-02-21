@@ -1,0 +1,3 @@
+[submodule "scene-recognition"]
+	path = scene-recognition
+	url = https://github.com/flytxtds/scene-recognition
